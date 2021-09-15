@@ -1,1 +1,4 @@
-class poilicy{}
+class poilicy{
+   void fun(){
+}
+}
